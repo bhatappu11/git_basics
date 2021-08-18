@@ -1,1 +1,3 @@
 This is file in branch feature_1
+
+Second line is added to the sample_2 file in branch
